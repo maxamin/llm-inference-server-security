@@ -1,0 +1,7 @@
+[book]
+title = "LLM Inference Server Security"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/llm-inference-server-security"
